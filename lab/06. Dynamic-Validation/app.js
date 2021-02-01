@@ -11,6 +11,4 @@ function validate() {
             event.target.className='error';
         }
     }
-
-    console.log('TODO:...');
 }
